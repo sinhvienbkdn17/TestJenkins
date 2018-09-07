@@ -1,0 +1,12 @@
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\TestJenkins.Tests.dll
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\TestJenkins.Tests.pdb
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\nunit.framework.dll
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\TestJenkins.exe
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\TestJenkins.pdb
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\TestJenkins.exe.config
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\bin\Debug\nunit.framework.xml
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\obj\Debug\TestJenkins.Tests.csprojAssemblyReference.cache
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\obj\Debug\TestJenkins.Tests.csproj.CoreCompileInputs.cache
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\obj\Debug\TestJenkins.Tests.csproj.CopyComplete
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\obj\Debug\TestJenkins.Tests.dll
+E:\Continious Intergration Sample\TestJenkins\TestJenkins.Tests\obj\Debug\TestJenkins.Tests.pdb
