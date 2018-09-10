@@ -33,7 +33,7 @@ namespace TestJenkins.Tests
         [Test]
         public void FourPlusOneEqualFive()
         {
-            Assert.AreEqual(7, _cal.Add(4, 1));
+            Assert.AreEqual(8, _cal.Add(4, 1));
         }
     }
 }
