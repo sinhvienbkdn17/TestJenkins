@@ -4,3 +4,4 @@ E:\Continious Intergration Sample\TestJenkins\TestJenkins\bin\Debug\TestJenkins.
 E:\Continious Intergration Sample\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csproj.CoreCompileInputs.cache
 E:\Continious Intergration Sample\TestJenkins\TestJenkins\obj\Debug\TestJenkins.exe
 E:\Continious Intergration Sample\TestJenkins\TestJenkins\obj\Debug\TestJenkins.pdb
+E:\Continious Intergration Sample\TestJenkins\TestJenkins\obj\Debug\TestJenkins.csprojAssemblyReference.cache
